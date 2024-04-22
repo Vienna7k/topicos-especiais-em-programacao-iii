@@ -1,0 +1,3 @@
+arroz;20;disponível
+feijao;20;disponível
+alface;0;indisponível
